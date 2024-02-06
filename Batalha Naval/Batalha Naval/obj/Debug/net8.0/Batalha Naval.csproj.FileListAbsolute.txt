@@ -1,0 +1,28 @@
+C:\Users\Débora\Desktop\Batalha Naval\Batalha Naval\Batalha Naval\bin\Debug\net8.0\Batalha Naval.exe
+C:\Users\Débora\Desktop\Batalha Naval\Batalha Naval\Batalha Naval\bin\Debug\net8.0\Batalha Naval.deps.json
+C:\Users\Débora\Desktop\Batalha Naval\Batalha Naval\Batalha Naval\bin\Debug\net8.0\Batalha Naval.runtimeconfig.json
+C:\Users\Débora\Desktop\Batalha Naval\Batalha Naval\Batalha Naval\bin\Debug\net8.0\Batalha Naval.dll
+C:\Users\Débora\Desktop\Batalha Naval\Batalha Naval\Batalha Naval\bin\Debug\net8.0\Batalha Naval.pdb
+C:\Users\Débora\Desktop\Batalha Naval\Batalha Naval\Batalha Naval\obj\Debug\net8.0\Batalha Naval.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Débora\Desktop\Batalha Naval\Batalha Naval\Batalha Naval\obj\Debug\net8.0\Batalha Naval.AssemblyInfoInputs.cache
+C:\Users\Débora\Desktop\Batalha Naval\Batalha Naval\Batalha Naval\obj\Debug\net8.0\Batalha Naval.AssemblyInfo.cs
+C:\Users\Débora\Desktop\Batalha Naval\Batalha Naval\Batalha Naval\obj\Debug\net8.0\Batalha Naval.csproj.CoreCompileInputs.cache
+C:\Users\Débora\Desktop\Batalha Naval\Batalha Naval\Batalha Naval\obj\Debug\net8.0\Batalha Naval.dll
+C:\Users\Débora\Desktop\Batalha Naval\Batalha Naval\Batalha Naval\obj\Debug\net8.0\refint\Batalha Naval.dll
+C:\Users\Débora\Desktop\Batalha Naval\Batalha Naval\Batalha Naval\obj\Debug\net8.0\Batalha Naval.pdb
+C:\Users\Débora\Desktop\Batalha Naval\Batalha Naval\Batalha Naval\obj\Debug\net8.0\Batalha Naval.genruntimeconfig.cache
+C:\Users\Débora\Desktop\Batalha Naval\Batalha Naval\Batalha Naval\obj\Debug\net8.0\ref\Batalha Naval.dll
+C:\Users\Débora\Desktop\Batalha Naval\Batalha Naval\bin\Debug\net8.0\Batalha Naval.exe
+C:\Users\Débora\Desktop\Batalha Naval\Batalha Naval\bin\Debug\net8.0\Batalha Naval.deps.json
+C:\Users\Débora\Desktop\Batalha Naval\Batalha Naval\bin\Debug\net8.0\Batalha Naval.runtimeconfig.json
+C:\Users\Débora\Desktop\Batalha Naval\Batalha Naval\bin\Debug\net8.0\Batalha Naval.dll
+C:\Users\Débora\Desktop\Batalha Naval\Batalha Naval\bin\Debug\net8.0\Batalha Naval.pdb
+C:\Users\Débora\Desktop\Batalha Naval\Batalha Naval\obj\Debug\net8.0\Batalha Naval.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Débora\Desktop\Batalha Naval\Batalha Naval\obj\Debug\net8.0\Batalha Naval.AssemblyInfoInputs.cache
+C:\Users\Débora\Desktop\Batalha Naval\Batalha Naval\obj\Debug\net8.0\Batalha Naval.AssemblyInfo.cs
+C:\Users\Débora\Desktop\Batalha Naval\Batalha Naval\obj\Debug\net8.0\Batalha Naval.csproj.CoreCompileInputs.cache
+C:\Users\Débora\Desktop\Batalha Naval\Batalha Naval\obj\Debug\net8.0\Batalha Naval.dll
+C:\Users\Débora\Desktop\Batalha Naval\Batalha Naval\obj\Debug\net8.0\refint\Batalha Naval.dll
+C:\Users\Débora\Desktop\Batalha Naval\Batalha Naval\obj\Debug\net8.0\Batalha Naval.pdb
+C:\Users\Débora\Desktop\Batalha Naval\Batalha Naval\obj\Debug\net8.0\Batalha Naval.genruntimeconfig.cache
+C:\Users\Débora\Desktop\Batalha Naval\Batalha Naval\obj\Debug\net8.0\ref\Batalha Naval.dll
