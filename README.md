@@ -15,7 +15,7 @@ Projeto desenvolvido para disciplina de Algoritmos e Técnicas de Programação,
 ``5`` O jogo termina quando um jogador atingir a pontuação máxima do jogo, informando qual jogador venceu. <br>
 ``6`` O programa escreve em um arquivo texto (jogadas.txt) a sequência de tiros do jogador vencedor (linha e coluna).
 
-> ### ✔️ Técnicas e tecnologias utilizadas
+> ### ✔️ Tecnologias utilizadas
 - ``Visual Studio``
 - ``C#``
 
